@@ -1,0 +1,27 @@
+.pare {
+    display: flex;
+
+
+}
+
+.ui.avatar.image {
+    width: 6em;
+    height: 5em;
+}
+
+i.icon,
+i.icons {
+    display: flex;
+    align-items: flex-end;
+    font-size: 2em;
+}
+
+.ch2 {
+    display: flex;
+    margin-right : 300px;
+    margin-left : 22px;
+
+}
+.ch3{
+    cursor: pointer;
+}
